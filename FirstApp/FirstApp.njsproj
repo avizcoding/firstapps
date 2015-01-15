@@ -31,7 +31,6 @@
     <Content Include="views\index.jade" />
     <Content Include="views\layout.jade" />
     <Content Include="public\stylesheets\style.css" />
-    <TypeScriptCompile Include="newFileNew.ts" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="node" />
