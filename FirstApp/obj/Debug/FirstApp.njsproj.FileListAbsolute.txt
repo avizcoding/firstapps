@@ -1,2 +1,4 @@
 C:\VizDesign\FirstApp\obj\Debug\FirstApp.njsprojResolveAssemblyReference.cache
 C:\VizDesign\FirstApp\bin\Microsoft.NodejsTools.WebRole.dll
+C:\VizDesign\firstapps\FirstApp\bin\Microsoft.NodejsTools.WebRole.dll
+C:\VizDesign\firstapps\FirstApp\obj\Debug\FirstApp.njsprojResolveAssemblyReference.cache
