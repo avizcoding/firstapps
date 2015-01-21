@@ -1,0 +1,1 @@
+C:\VizDesign\test2\bin\Microsoft.NodejsTools.WebRole.dll
