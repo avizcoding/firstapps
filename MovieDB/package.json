@@ -4,7 +4,10 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "ejs": "*",
     "express": "^3.19.0",
-    "jade": "^1.9.0"
+    "jade": "^1.9.0",
+    "mongoose": "*",
+    "requirejs": "^2.1.15"
   }
 }

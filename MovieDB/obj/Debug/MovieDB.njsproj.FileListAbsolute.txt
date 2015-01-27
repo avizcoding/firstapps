@@ -1,0 +1,2 @@
+C:\VizDesign\firstapps\MovieDB\bin\Microsoft.NodejsTools.WebRole.dll
+C:\VizDesign\firstapps\MovieDB\obj\Debug\MovieDB.njsprojResolveAssemblyReference.cache

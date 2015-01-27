@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FirstApp", "FirstApp.njsproj", "{76AF6E5D-B8CF-4A54-8E18-B099F2EF2684}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Movies", "..\Movies\Movies.njsproj", "{51C04080-E0DE-44FB-B32D-BC24BD133B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76AF6E5D-B8CF-4A54-8E18-B099F2EF2684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76AF6E5D-B8CF-4A54-8E18-B099F2EF2684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76AF6E5D-B8CF-4A54-8E18-B099F2EF2684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C04080-E0DE-44FB-B32D-BC24BD133B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C04080-E0DE-44FB-B32D-BC24BD133B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C04080-E0DE-44FB-B32D-BC24BD133B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C04080-E0DE-44FB-B32D-BC24BD133B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
