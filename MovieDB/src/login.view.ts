@@ -1,4 +1,4 @@
-﻿import loginController = require("logincontroller");
+﻿import loginController = require("login.controller");
 
 module Login {
     export class LoginView {

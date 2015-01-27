@@ -48,7 +48,7 @@
     <Content Include="views\layout.jade" />
     <Content Include="public\stylesheets\style.css" />
     <TypeScriptCompile Include="server\server.ts" />
-    <TypeScriptCompile Include="src\logincontroller.ts" />
+    <TypeScriptCompile Include="src\login.controller.ts" />
     <TypeScriptCompile Include="src\login.view.ts" />
     <TypeScriptCompile Include="src\main.controller.ts" />
   </ItemGroup>
